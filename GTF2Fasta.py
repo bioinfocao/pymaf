@@ -1,6 +1,7 @@
 """
 Take known or novel transcripts GTF as input,
-return transcripts' fasta sequence extracted from whole genome multiple alignments MAF file
+Return transcripts' fasta sequence extracted from multiple species whole genome alignments MAF file (such as UCSC multiz100way)
+
 
 Requirements: ucsc-mafsinregion. Download and install as:
 http://hgdownload.cse.ucsc.edu/admin/exe/
